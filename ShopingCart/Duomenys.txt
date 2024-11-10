@@ -1,0 +1,12 @@
+Bulves 1,20 
+Morkos 0,80 
+Pomidorai 2,50 
+Agurkai 1,80 
+Svogunai 1,00 
+Kopustai 1,50 
+Paprika 3,00 
+Brokoliai 2,20 
+Salotos 1,20 
+Cukinijos 2,00 
+Krapai 0,80 
+Pupeles 2,80 
